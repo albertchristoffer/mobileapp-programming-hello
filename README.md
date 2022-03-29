@@ -4,7 +4,7 @@
 I denna uppgift ändrades texten i XML-filen "content_main.xml" från "Hello World!" till "Go'mörra änna din gamle gnu!".
 Efter att appen testats och kontrollerats commitades och pushades filen till denna GitHub repository. Efter det firade jag med ett par salsa-steg.
 
-Nedan visas den altererade kodensnutten i XML-filen:
+Nedan visas den altererade kodsnutten i XML-filen:
 
 ```
    <TextView
