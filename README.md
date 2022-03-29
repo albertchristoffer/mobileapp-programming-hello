@@ -21,4 +21,4 @@ precis lika hög och bred som texten. Rad 3 är den rad där text-outputen ändr
 
 Nedan finns en skärmdump bifogad på förändingen.
 
-![](Go'mörra änna din gamle gnu.png)
+![](screenshot.png)
